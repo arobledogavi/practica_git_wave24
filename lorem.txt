@@ -1,0 +1,2 @@
+Este archivo es una practica del modulo de git y github para conectar el 
+repositorio remoto con el repositorio local.
